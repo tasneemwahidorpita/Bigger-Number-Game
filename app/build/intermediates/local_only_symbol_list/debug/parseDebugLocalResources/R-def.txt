@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color button_bg
+color button_text
+color gray_background
+color maroon_dark
+color maroon_light
+color phone_outer
+color screen_white
+color text_primary
+drawable ic_launcher_foreground
+id contentRow
+id leftButton
+id resultText
+id rightButton
+id scoreText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string game_description
+string phone_hint
+string phone_title
+string points_label
+string title_top_down_design
+style Theme.BiggerNumberGame

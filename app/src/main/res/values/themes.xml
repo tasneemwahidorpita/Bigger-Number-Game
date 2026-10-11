@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.BiggerNumberGame" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/maroon_dark</item>
+        <item name="colorPrimaryVariant">@color/maroon_light</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowBackground">@color/gray_background</item>
+    </style>
+</resources>

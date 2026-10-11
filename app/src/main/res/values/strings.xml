@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bigger Number</string>
+    <string name="title_top_down_design">Top-down design</string>
+    <string name="game_description">• "Bigger Number" game (really dumb)
+• user is shown two numbers
+• click button to choose which one is bigger
+• correct/incorrect message after each guess
+• earn points for each correct answer
+
+• We need to learn:
+• how to create and position graphical widgets
+• how to respond to user events</string>
+    <string name="phone_title">Bigger Number Game!</string>
+    <string name="phone_hint">Press the button of the larger number. If you get it right,
+you will earn a point! If you get it wrong, you lose a point.</string>
+    <string name="points_label">Points: 0</string>
+</resources>

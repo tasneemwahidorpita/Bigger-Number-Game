@@ -1,0 +1,34 @@
+com.example.biggernumbergame.app-recyclerview-1.1.0-0 C:\Users\23201542\.gradle\caches\9.3.0\transforms\0973cc6c795a80d13d75055484747ae9\workspace\transformed\recyclerview-1.1.0\res
+com.example.biggernumbergame.app-jetified-emoji2-views-helper-1.3.0-1 C:\Users\23201542\.gradle\caches\9.3.0\transforms\1067008a83597049f891358cc2ae24f6\workspace\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.biggernumbergame.app-appcompat-1.7.0-2 C:\Users\23201542\.gradle\caches\9.3.0\transforms\24f21dc46bfe02f24239effa48d60f1d\workspace\transformed\appcompat-1.7.0\res
+com.example.biggernumbergame.app-lifecycle-runtime-2.6.2-3 C:\Users\23201542\.gradle\caches\9.3.0\transforms\287e6da356b0758f7bb0971265c4e3ef\workspace\transformed\lifecycle-runtime-2.6.2\res
+com.example.biggernumbergame.app-jetified-lifecycle-process-2.6.2-4 C:\Users\23201542\.gradle\caches\9.3.0\transforms\3a601708d28803ec8464ce63fd988b00\workspace\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.biggernumbergame.app-jetified-appcompat-resources-1.7.0-5 C:\Users\23201542\.gradle\caches\9.3.0\transforms\3b2a8640db40c6a4c923deac84c95b26\workspace\transformed\jetified-appcompat-resources-1.7.0\res
+com.example.biggernumbergame.app-cardview-1.0.0-6 C:\Users\23201542\.gradle\caches\9.3.0\transforms\458745b599098a46a5fcb3a71501c53b\workspace\transformed\cardview-1.0.0\res
+com.example.biggernumbergame.app-transition-1.5.0-7 C:\Users\23201542\.gradle\caches\9.3.0\transforms\496bd39493909bdacdab7b62e3d0b164\workspace\transformed\transition-1.5.0\res
+com.example.biggernumbergame.app-constraintlayout-2.1.4-8 C:\Users\23201542\.gradle\caches\9.3.0\transforms\5342210433b1defe22dc7ec5bd4786d3\workspace\transformed\constraintlayout-2.1.4\res
+com.example.biggernumbergame.app-jetified-viewpager2-1.0.0-9 C:\Users\23201542\.gradle\caches\9.3.0\transforms\535424afda222281b09c658d4841cac6\workspace\transformed\jetified-viewpager2-1.0.0\res
+com.example.biggernumbergame.app-lifecycle-livedata-core-2.6.2-10 C:\Users\23201542\.gradle\caches\9.3.0\transforms\5d3eea3b1488a981720099b2b7ae6dda\workspace\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.biggernumbergame.app-jetified-profileinstaller-1.3.1-11 C:\Users\23201542\.gradle\caches\9.3.0\transforms\5dfe9c2f717a3a6452fd0a2b41d9f1e6\workspace\transformed\jetified-profileinstaller-1.3.1\res
+com.example.biggernumbergame.app-coordinatorlayout-1.1.0-12 C:\Users\23201542\.gradle\caches\9.3.0\transforms\756b500b3e20ec095cdc6f9a23dc8b76\workspace\transformed\coordinatorlayout-1.1.0\res
+com.example.biggernumbergame.app-material-1.12.0-13 C:\Users\23201542\.gradle\caches\9.3.0\transforms\843150b3d79472a947974857cf39ddcf\workspace\transformed\material-1.12.0\res
+com.example.biggernumbergame.app-jetified-core-ktx-1.13.1-14 C:\Users\23201542\.gradle\caches\9.3.0\transforms\8f9104ce8a3ec383ee4b3730339bf002\workspace\transformed\jetified-core-ktx-1.13.1\res
+com.example.biggernumbergame.app-jetified-activity-1.8.0-15 C:\Users\23201542\.gradle\caches\9.3.0\transforms\97bd0fd172deb15711f22c183df68030\workspace\transformed\jetified-activity-1.8.0\res
+com.example.biggernumbergame.app-fragment-1.5.4-16 C:\Users\23201542\.gradle\caches\9.3.0\transforms\99f2222d0b1216730f318219b791d0d0\workspace\transformed\fragment-1.5.4\res
+com.example.biggernumbergame.app-jetified-savedstate-1.2.1-17 C:\Users\23201542\.gradle\caches\9.3.0\transforms\a43e62e6a0830329a003575c40c9f7b8\workspace\transformed\jetified-savedstate-1.2.1\res
+com.example.biggernumbergame.app-core-1.13.1-18 C:\Users\23201542\.gradle\caches\9.3.0\transforms\abeb515357a7db3fd22e844d1e55f2be\workspace\transformed\core-1.13.1\res
+com.example.biggernumbergame.app-lifecycle-viewmodel-2.6.2-19 C:\Users\23201542\.gradle\caches\9.3.0\transforms\af8946575fb0a6ce0221f6c0fdc7e240\workspace\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.biggernumbergame.app-jetified-emoji2-1.3.0-20 C:\Users\23201542\.gradle\caches\9.3.0\transforms\b23d96f81d4e9cc5a39aabda752356dd\workspace\transformed\jetified-emoji2-1.3.0\res
+com.example.biggernumbergame.app-jetified-startup-runtime-1.1.1-21 C:\Users\23201542\.gradle\caches\9.3.0\transforms\b785590c1c9199b41b9e673a9914b2c1\workspace\transformed\jetified-startup-runtime-1.1.1\res
+com.example.biggernumbergame.app-jetified-annotation-experimental-1.4.0-22 C:\Users\23201542\.gradle\caches\9.3.0\transforms\c5e2a11bbfa3ba32d80740e548547fe0\workspace\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.biggernumbergame.app-lifecycle-livedata-2.6.2-23 C:\Users\23201542\.gradle\caches\9.3.0\transforms\cada256a2b6b37f386158218074ec26c\workspace\transformed\lifecycle-livedata-2.6.2\res
+com.example.biggernumbergame.app-core-runtime-2.2.0-24 C:\Users\23201542\.gradle\caches\9.3.0\transforms\cb2e3f7ab3d2a87f7ab0d3730df44b03\workspace\transformed\core-runtime-2.2.0\res
+com.example.biggernumbergame.app-drawerlayout-1.1.1-25 C:\Users\23201542\.gradle\caches\9.3.0\transforms\f86b399fb558fb6633e62878ec59d031\workspace\transformed\drawerlayout-1.1.1\res
+com.example.biggernumbergame.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-26 C:\Users\23201542\.gradle\caches\9.3.0\transforms\fdecac11a8d5ecffeb7b61d75ab4b43c\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.biggernumbergame.app-pngs-27 C:\Users\23201542\CSE489 Lab1\app\build\generated\res\pngs\debug
+com.example.biggernumbergame.app-resValues-28 C:\Users\23201542\CSE489 Lab1\app\build\generated\res\resValues\debug
+com.example.biggernumbergame.app-packageDebugResources-29 C:\Users\23201542\CSE489 Lab1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.biggernumbergame.app-packageDebugResources-30 C:\Users\23201542\CSE489 Lab1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.biggernumbergame.app-debug-31 C:\Users\23201542\CSE489 Lab1\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.biggernumbergame.app-debug-32 C:\Users\23201542\CSE489 Lab1\app\src\debug\res
+com.example.biggernumbergame.app-main-33 C:\Users\23201542\CSE489 Lab1\app\src\main\res

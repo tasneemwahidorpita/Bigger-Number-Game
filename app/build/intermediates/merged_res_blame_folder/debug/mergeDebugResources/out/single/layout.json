@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\23201542\\.gradle\\daemon\\9.3.0\\com.example.biggernumbergame.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\23201542\\.gradle\\daemon\\9.3.0\\com.example.biggernumbergame.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.biggernumbergame.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.biggernumbergame.app-main-33:/layout/activity_main.xml"
+    }
+]
